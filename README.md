@@ -10,12 +10,6 @@
 
 * CPU & GPU Mining - Can mine on Both CPU and GPU (Nvidia & AMD)
   
-
-## Author
-
-* ZeroClust 
-* Nyan Cat
-
 ## Disclaimer
 
 I, ZeroClust, am not responsible for any actions, and or damages caused by this software.
