@@ -19,6 +19,3 @@ You have the full responsibility over your actions and acknowledge that this sof
 This software's main purpose is NOT to be used maliciously, or on any system that you do not own.
 
 
-## License
-
-This project is licensed under the MIT License.
