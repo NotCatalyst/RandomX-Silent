@@ -9,6 +9,8 @@
 * Injection - Hide payload behind another process
 
 * CPU & GPU Mining - Can mine on Both CPU and GPU (Nvidia & AMD)
+
+* Latest RandomX algo support
   
 ## Disclaimer
 
