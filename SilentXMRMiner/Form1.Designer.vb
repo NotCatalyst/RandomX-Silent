@@ -86,7 +86,7 @@ Partial Class Form1
         '
         'MephForm1
         '
-        Me.MephForm1.AccentColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.MephForm1.AccentColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(255, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.MephForm1.BackColor = System.Drawing.Color.FromArgb(CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer))
         Me.MephForm1.Controls.Add(Me.MephTabcontrol2)
         Me.MephForm1.Dock = System.Windows.Forms.DockStyle.Fill
