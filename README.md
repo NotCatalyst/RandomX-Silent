@@ -9,6 +9,8 @@
 * Injection - Hide payload behind another process
 
 * Latest RandomX algo support
+
+* Removed GPU mining making the stub way smaller. (6mb instead of 18)
   
 ## Disclaimer
 
