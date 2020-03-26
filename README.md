@@ -1,5 +1,5 @@
 
-# RandomX Silent
+# Silent XMR Miner.
 
 
 ## Main Features
