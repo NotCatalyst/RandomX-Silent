@@ -10,7 +10,7 @@ Public Class Form1
 
     Private Sub BackgroundWorker1_DoWork(sender As Object, e As System.ComponentModel.DoWorkEventArgs) Handles BackgroundWorker1.DoWork
         Try
-            MephForm1.Text = "RandomX Silent 0.2"
+            MephForm1.Text = ".. Silent Monero Miner .."
         Catch ex As Exception
         End Try
 
