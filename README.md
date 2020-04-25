@@ -8,7 +8,7 @@
 
 * Injection - Hide payload behind another process
 
-* Latest RandomX algo support
+* Updated everytimes a new version of xmrig comes out.
 
 * Removed GPU mining making the stub way smaller. (6mb instead of 18)
   
