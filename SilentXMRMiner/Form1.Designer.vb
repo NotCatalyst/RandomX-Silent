@@ -98,9 +98,9 @@ Partial Class Form1
         Me.MephForm1.MinimumSize = New System.Drawing.Size(535, 272)
         Me.MephForm1.Name = "MephForm1"
         Me.MephForm1.Size = New System.Drawing.Size(535, 272)
-        Me.MephForm1.SubHeader = "- H3x404 -"
+        Me.MephForm1.SubHeader = "- xSynt4x -"
         Me.MephForm1.TabIndex = 0
-        Me.MephForm1.Text = "RandomX-Silent 0.2"
+        Me.MephForm1.Text = "Silent Monero 0.7"
         '
         'MephTabcontrol2
         '
